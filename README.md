@@ -8,4 +8,4 @@ _________
 
 # Getting Started With Python (Absolute Basics)
 
-- [Python IDLE Simple Programs] (https://github.com/digitallyamar/Python-IDLE-Simple-Programs)
+- [Python IDLE Simple Programs](https://github.com/digitallyamar/Python-IDLE-Simple-Programs)
